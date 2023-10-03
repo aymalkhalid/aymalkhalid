@@ -1,9 +1,8 @@
 # Aymal Khalid Khan
 
-![download](https://github.com/aymalkhalid/aymalkhalid/assets/32593370/caee534d-1d09-46b9-b134-459aa15e3a21)
+<a href="https://www.linkedin.com/in/aymal-khalid-khan/"><img src="https://github.com/aymalkhalid/aymalkhalid/blob/main/images/linkedin.png" alt="LinkedIn"></a> | 
+<a href="https://www.upwork.com/freelancers/~013218e2f124d20de3"><img src="https://github.com/aymalkhalid/aymalkhalid/blob/main/images/Upwork.png" alt="Upwork"></a>
 
-
-[![LinkedIn](![download](https://github.com/aymalkhalid/aymalkhalid/assets/32593370/8dc555e8-fdec-45e6-899f-0976610ae624))](https://www.linkedin.com/in/aymal-khalid-khan/) | ![Email](![download](https://github.com/aymalkhalid/aymalkhalid/assets/32593370/e4f8f24b-7740-4f92-8497-476b3614a15f)) (mailto:send2aymal@gmail.com) | [![Upwork](![download](https://github.com/aymalkhalid/aymalkhalid/assets/32593370/85186cb6-5e2c-4286-a8f3-95e01ca0d908))](https://www.upwork.com/freelancers/~013218e2f124d20de3)
 
 ## Software Engineer | Upwork Expert-Vetted 
 - Top-rated Software Engineer with extensive experience in chatbot development.
