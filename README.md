@@ -1,6 +1,6 @@
 # Aymal Khalid Khan
 
-<a href="https://www.linkedin.com/in/aymal-khalid-khan/"><img src="https://github.com/aymalkhalid/aymalkhalid/blob/main/images/linkedin.png" alt="LinkedIn"></a> | 
+<a href="www.linkedin.com/in/aymal-khalid-khan-52537a154"><img src="https://github.com/aymalkhalid/aymalkhalid/blob/main/images/linkedin.png" alt="LinkedIn"></a> | 
 <a href="https://www.upwork.com/freelancers/~01cfbef93ef054b570?viewMode=1"><img src="https://github.com/aymalkhalid/aymalkhalid/blob/main/images/Upwork.png" alt="Upwork"></a>
 
 
