@@ -8,8 +8,8 @@
 </a>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="width: 25%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=aymalkhalid&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 30%;">
+    <div style="width: 45%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=aymalkhalid&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;">
     </div>
 </div>
 
@@ -21,7 +21,7 @@
 - Led teams to build mobile, web and custom devices applications.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="width: 25%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymalkhalid&size_weight=0&count_weight=.1" alt="Top Languages" style="width: 30%;">
+    <div style="width: 45%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymalkhalid&size_weight=0&count_weight=.1" alt="Top Languages" style="width: 100%;">
     </div>
 </div>
