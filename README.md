@@ -9,10 +9,10 @@
 
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 45%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=aymalkhalid&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=aymalkhalid&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%;">
     </div>
     <div style="width: 45%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymalkhalid&size_weight=0&count_weight=.1" alt="Top Languages" style="width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymalkhalid&size_weight=0&count_weight=.1" alt="Top Languages" style="width: 50%;">
     </div>
 </div>
 
