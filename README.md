@@ -6,6 +6,7 @@
 <a href="https://www.upwork.com/freelancers/~01cfbef93ef054b570?viewMode=1">
     <img src="https://github.com/aymalkhalid/aymalkhalid/blob/main/images/Upwork.png" alt="Upwork" style="width: 90px; height: 90px;">
 </a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymalkhalid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Software Engineer | Upwork Expert-Vetted 
