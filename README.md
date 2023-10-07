@@ -8,6 +8,8 @@
 </a>
 
 ## Software Engineer | Upwork Expert-Vetted 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymalkhalid)](https://github.com/anuraghazra/github-readme-stats)
+
 - Upwork Expert-Vetted Software Engineer with extensive experience in chatbot development.
 - Completed 58+ jobs in industries like hospitality, recruiting, health, airline, dentistry, e-commerce, customer support, event management, transportation, real estate, and financial services.
 - Successfully built applications powered by LLM using OpenAI and Google Vertex AI.
