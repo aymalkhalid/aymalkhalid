@@ -11,12 +11,7 @@
     <div style="width: 25%;">
         <img src="https://github-readme-stats.vercel.app/api?username=aymalkhalid&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 30%;">
     </div>
-    <span style="font-size: 24px;">|</span>
-    <div style="width: 25%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymalkhalid&size_weight=0&count_weight=.1" alt="Top Languages" style="width: 30%;">
-    </div>
 </div>
-
 
 ## Software Engineer | Upwork Expert-Vetted 
 
@@ -24,3 +19,9 @@
 - Completed 58+ jobs in industries like hospitality, recruiting, health, airline, dentistry, e-commerce, customer support, event management, transportation, real estate, and financial services.
 - Successfully built applications powered by LLM using OpenAI and Google Vertex AI.
 - Led teams to build mobile, web and custom devices applications.
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 25%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymalkhalid&size_weight=0&count_weight=.1" alt="Top Languages" style="width: 30%;">
+    </div>
+</div>
