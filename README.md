@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymalkhalid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymalkhalid&size_weight=0&count_weight=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymalkhalid&size_weight=0&count_weight=.1)
 ## Software Engineer | Upwork Expert-Vetted 
 
 - Upwork Expert-Vetted Software Engineer with extensive experience in chatbot development.
