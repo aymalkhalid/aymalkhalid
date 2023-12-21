@@ -15,10 +15,10 @@
 
 ## Software Engineer | Upwork Expert-Vetted 
 
-- Upwork Expert-Vetted Software Engineer with extensive experience in chatbot development.
-- Completed 58+ jobs in industries like hospitality, recruiting, health, airline, dentistry, e-commerce, customer support, event management, transportation, real estate, and financial services.
-- Successfully built applications powered by LLM using OpenAI and Google Vertex AI.
-- Led teams to build mobile, web and custom devices applications.
+- **Distinguished Upwork Expert-Vetted Software Engineer** specializing in Conversational AI development.
+- **Comprehensive Portfolio:** Successfully completed over 58 projects across diverse sectors, including Hospitality, Recruitment, Healthcare, Aviation, Dental Care, E-commerce, Customer Service, Event Planning, Transportation, Real Estate, and Financial Services.
+- **AI Expertise:** Proficient in crafting applications leveraging Large Language Models (LLMs) with integrations using OpenAI and Google Vertex AI technologies.
+- **Leadership Excellence:** Proven track record in guiding teams to deliver innovative solutions in mobile, web, and bespoke device applications.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="width: 45%;">
