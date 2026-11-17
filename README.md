@@ -1,9 +1,9 @@
 <h1 align="center">Aymal Khalid Khan</h1>
 
-<h3 align="center">Freelance AI Systems Engineer</h3>
+<h3 align="center">AI Agent &amp; Generative AI Engineer</h3>
 
 <p align="center">
-  Voice AI &bull; Conversational AI &bull; Agentic Automation &bull; RAG Systems
+  Founder of AigenSols &bull; Voice &amp; Messaging &bull; Workflow Automation
 </p>
 
 <p align="center">
@@ -23,18 +23,21 @@
 
 ## About Me
 
-I design and build production AI systems that help businesses improve communication, capture and qualify leads, automate workflows, and support their teams. My work covers architecture, conversational design, backend development, integrations, deployment, and ongoing improvement.
+I’m Aymal Khalid Khan, founder of [AigenSols](https://www.aigensols.com/about). I build AI agents and workflow automations that qualify leads, answer customer questions, book appointments, and connect the tools your team already uses.
 
-I am an **Upwork Expert-Vetted Software Engineer**, the founder of **Aigen IT Business Solutions**, and have worked across **100+ freelance projects** in healthcare, aviation, real estate, recruitment, e-commerce, hospitality, financial services, and customer support.
+I use rule-based automation for fixed decisions, generative AI to understand or draft messages, and tool-using agents to complete tasks across systems.
+
+I am an **Upwork Expert-Vetted Software Engineer** and have worked across **100+ freelance projects** in healthcare, aviation, real estate, recruitment, e-commerce, hospitality, financial services, and customer support.
 
 ## What I Build
 
 | Area | Systems and capabilities |
 | --- | --- |
 | **Voice AI** | AI receptionists, appointment setters, lead qualification, inbound and outbound calling, IVR, transfer, recording, and transcription |
-| **Conversational AI** | Assistants for web, phone, WhatsApp, SMS, Facebook, Slack, and Telegram |
-| **Agentic AI & Automation** | Tool-calling agents connected to calendars, CRMs, databases, APIs, and operational workflows |
-| **RAG Systems** | Knowledge assistants using document retrieval, vector search, and grounded responses |
+| **Conversational AI** | Assistants for WhatsApp, Instagram DMs, Facebook Messenger, web chat, SMS, Slack, and Telegram |
+| **AI Agents** | Tool-using agents connected to calendars, CRMs, databases, and APIs, with human handoff where needed |
+| **Generative AI & RAG** | Drafting, summarization, knowledge retrieval, and answers grounded in approved sources |
+| **Workflow Automation** | Rule-based routing, validation, CRM updates, and follow-up |
 
 > I build AI to support people and strengthen teams, with clear human handoff when judgment or personal attention is required.
 
