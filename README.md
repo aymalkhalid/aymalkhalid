@@ -1,9 +1,9 @@
 <h1 align="center">Aymal Khalid Khan</h1>
 
-<h3 align="center">AI Agent &amp; Generative AI Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  Founder of AigenSols &bull; Voice &amp; Messaging &bull; Workflow Automation
+  AI Automation, Voice &amp; Messaging Agents
 </p>
 
 <p align="center">
@@ -23,9 +23,11 @@
 
 ## About Me
 
-I’m Aymal Khalid Khan, founder of [AigenSols](https://www.aigensols.com/about). I build AI agents and workflow automations that qualify leads, answer customer questions, book appointments, and connect the tools your team already uses.
+I’m Aymal Khalid Khan, an independent software engineer. I build AI voice and messaging agents that answer inquiries, qualify leads, book appointments, and update your CRM. I also connect your tools and automate repetitive admin work.
 
-I use rule-based automation for fixed decisions, generative AI to understand or draft messages, and tool-using agents to complete tasks across systems.
+I use business rules for fixed decisions, AI to understand open-ended requests, and human review when your team needs to approve an action.
+
+[About me and my work at AigenSols](https://www.aigensols.com/about)
 
 I am an **Upwork Expert-Vetted Software Engineer** and have worked across **100+ freelance projects** in healthcare, aviation, real estate, recruitment, e-commerce, hospitality, financial services, and customer support.
 
